@@ -11,5 +11,7 @@ matrix = np.random.random ([10,10]) * 10
 matrix.astype(int)
 
 findSum(matrix)
-        
+
+
+
 
